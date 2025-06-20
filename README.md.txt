@@ -95,9 +95,7 @@ Frontend Souhail, Ikram, Sara
 Backend Macyl, Rayane, Omar
 
 ---------------------------
-📬 CONTACT
----------------------------
-For questions or contributions, please contact us at echoproject@gmail.com
+
 
 
 
